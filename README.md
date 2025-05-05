@@ -12,3 +12,10 @@ Este componente puede integrarse fácilmente en cualquier aplicación Swing, ofr
 - Soporte para arrastrar y soltar (`Drag & Drop`).
 - Permite prevenir imágenes duplicadas.
 - Totalmente configurable vía métodos públicos.
+
+# Estructura del codigo
+
+El componente extiende de JPanel y utiliza JLayeredPane para mostrar imágenes y botones de navegación superpuestos.
+## Constructor
+Inicializa todos los elementos gráficos, como barras de control, botones, y configuraciones iniciales del panel.
+[![image.png](https://i.postimg.cc/J0ySdn9s/image.png)](https://postimg.cc/0Kstz85v)
