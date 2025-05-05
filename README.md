@@ -40,4 +40,32 @@ Permite el cambio automático de imágenes cada cierto intervalo.
 Permite al usuario arrastrar imágenes desde el explorador de archivos directamente al componente.
 [![image.png](https://i.postimg.cc/5tC3Gz0d/image.png)](https://postimg.cc/QBj1KH10)
 
+##  Importar en NetBeans
 
+1. Haz clic derecho en el proyecto.
+2. Ve a **Propiedades**.
+3. Selecciona **Bibliotecas**.
+4. Haz clic en **Agregar JAR/carpeta**.
+5. Busca y selecciona el archivo 'componenteGaleriaDeImagenes'
+[![image.png](https://i.postimg.cc/bwHYRCxK/image.png)](https://postimg.cc/K1jyG5sN)
+6. Por último se importuna las clases en el código que se ocupen y lo añadimos a la paleta.
+
+[![image.png](https://i.postimg.cc/RF3NG1VK/image.png)](https://postimg.cc/Q938dT7d)
+
+# Prueba del componente
+Aqui se muestra como se ve el componente implemtado en un **JFrame**
+
+[![image.png](https://i.postimg.cc/BQCQT7cR/image.png)](https://postimg.cc/7ffkDVRN)
+
+El boton agregar imagen nos permite añadir las imagenes que deseamos
+
+[![image.png](https://i.postimg.cc/Hx5TV6kZ/image.png)](https://postimg.cc/KkZ6WrLB)
+
+Buscamos la imagen que deseamos y le damos open
+
+[![image.png](https://i.postimg.cc/Hnd1jHKn/image.png)](https://postimg.cc/62jmmsBx)
+
+Para eliminar las imagenes solo tenemos que presionar el boton que se encuentra del lado derecho y automaticamen sera eliminada.
+
+# Video sobre el uso de la librería
+  [Ver video sobre el uso de la libreria en YouTube](https://youtu.be/QzNLyj4i-0s)
