@@ -25,6 +25,15 @@ Permite al usuario seleccionar una imagen desde el disco para agregarla a la gal
 [![image.png](https://i.postimg.cc/pL04xKRm/image.png)](https://postimg.cc/tsx2NZ1b)
 
 ## Mostrar imagen
+Escala y muestra la imagen en el JLabel principal.
 [![image.png](https://i.postimg.cc/Y25pBK85/image.png)](https://postimg.cc/nM18qWy2)
+
+## Navegación
+Avanza o retrocede entre las imágenes, con soporte para repetir si loop está activado.
+[![image.png](https://i.postimg.cc/mkG6VwN5/image.png)](https://postimg.cc/LYNT8jWt)
+
+## Temporizador
+Permite el cambio automático de imágenes cada cierto intervalo.
+[![image.png](https://i.postimg.cc/Z5D7XZx3/image.png)](https://postimg.cc/JsZ5Bfg4)
 
 
