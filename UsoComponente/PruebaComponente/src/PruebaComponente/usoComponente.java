@@ -47,7 +47,7 @@ public class usoComponente extends javax.swing.JFrame {
         componenteGaleria1.setDimension(new Dimension(500, 400)); // Tamaño preferido del área de imagen
         componenteGaleria1.setAutoCambio(true);                 // Habilita cambio automático con temporizador
         componenteGaleria1.setCambioPorClick(false);            // Habilita navegación con clic izquierdo/derecho
-        componenteGaleria1.setMostrarFlecha(true);  // Si se activa mostrar flecha, se desactivará el 
+        componenteGaleria1.setMostrarFlechas(true);  // Si se activa mostrar flecha, se desactivará el 
                                                         cambio de imagnes por click y viceversa
        
         componenteGaleria1.setLoop(true);                      // Si llega al final, vuelve al inicio
