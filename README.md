@@ -38,4 +38,6 @@ Permite el cambio automático de imágenes cada cierto intervalo.
 
 ## Drag & Drop
 Permite al usuario arrastrar imágenes desde el explorador de archivos directamente al componente.
+[![image.png](https://i.postimg.cc/5tC3Gz0d/image.png)](https://postimg.cc/QBj1KH10)
+
 
