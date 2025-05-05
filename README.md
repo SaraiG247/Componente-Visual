@@ -22,4 +22,9 @@ Inicializa todos los elementos gráficos, como barras de control, botones, y con
 
 ## Agregar Imágenes
 Permite al usuario seleccionar una imagen desde el disco para agregarla a la galería.
+[![image.png](https://i.postimg.cc/pL04xKRm/image.png)](https://postimg.cc/tsx2NZ1b)
+
+## Mostrar imagen
 [![image.png](https://i.postimg.cc/Y25pBK85/image.png)](https://postimg.cc/nM18qWy2)
+
+
