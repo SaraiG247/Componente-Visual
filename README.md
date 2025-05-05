@@ -40,6 +40,15 @@ Permite el cambio automático de imágenes cada cierto intervalo.
 Permite al usuario arrastrar imágenes desde el explorador de archivos directamente al componente.
 [![image.png](https://i.postimg.cc/5tC3Gz0d/image.png)](https://postimg.cc/QBj1KH10)
 
+## Métodos configurables
+Desde el código
+
+[![image.png](https://i.postimg.cc/25hNFTPP/image.png)](https://postimg.cc/JyrFR37q)
+
+## Desde el editor visual de NetBeans
+Permite editar desde la paleta de propiedades del JFrame
+
+[![image.png](https://i.postimg.cc/2Sn00JSF/image.png)](https://postimg.cc/NKf8MdT5)
 ##  Importar en NetBeans
 
 1. Haz clic derecho en el proyecto.
