@@ -68,4 +68,5 @@ Buscamos la imagen que deseamos y le damos open
 Para eliminar las imagenes solo tenemos que presionar el boton que se encuentra del lado derecho y automaticamen sera eliminada.
 
 # Video sobre el uso de la librería
-  [Ver video sobre el uso de la libreria en YouTube]([https://youtu.be/QzNLyj4i-0s](https://youtu.be/XQQLMVNo1p4))
+[Ver video sobre el uso de la librería en YouTube](https://youtu.be/XQQLMVNo1p4)
+
