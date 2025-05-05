@@ -36,4 +36,6 @@ Avanza o retrocede entre las imágenes, con soporte para repetir si loop está a
 Permite el cambio automático de imágenes cada cierto intervalo.
 [![image.png](https://i.postimg.cc/Z5D7XZx3/image.png)](https://postimg.cc/JsZ5Bfg4)
 
+## Drag & Drop
+Permite al usuario arrastrar imágenes desde el explorador de archivos directamente al componente.
 
