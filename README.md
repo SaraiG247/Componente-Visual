@@ -19,3 +19,7 @@ El componente extiende de JPanel y utiliza JLayeredPane para mostrar imágenes y
 ## Constructor
 Inicializa todos los elementos gráficos, como barras de control, botones, y configuraciones iniciales del panel.
 [![image.png](https://i.postimg.cc/J0ySdn9s/image.png)](https://postimg.cc/0Kstz85v)
+
+## Agregar Imágenes
+Permite al usuario seleccionar una imagen desde el disco para agregarla a la galería.
+[![image.png](https://i.postimg.cc/Y25pBK85/image.png)](https://postimg.cc/nM18qWy2)
